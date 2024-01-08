@@ -12,7 +12,6 @@
 body {
     font-family: "Poppins_Regular";
     width: 100%;
-    position: relative;
 }
 
 a{
@@ -54,8 +53,6 @@ li{
 
 .privacy_footer {
     width: 100%;
-    position: absolute;
-    bottom: 0;
 }
 
 .down_footer {
